@@ -1,5 +1,7 @@
 .container{
 margin-bottom: 100px;
+
+
 }
 .orange-bg{
    background-color: #fceae8;
@@ -38,4 +40,8 @@ background-color: blue;
 .categories img{
     width: 100px;
   
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
 }
