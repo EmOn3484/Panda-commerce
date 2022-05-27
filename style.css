@@ -45,3 +45,12 @@ background-color: blue;
     border: none;
     box-shadow: 5px 5px 10px lightgrey;
 }
+#contact{
+    height: 300px;
+}
+#contact h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
